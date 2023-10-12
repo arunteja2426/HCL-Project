@@ -1,0 +1,318 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.cor {
+    height: 60vh;
+    width: 125vw;
+    background-size: cover;
+}
+
+.none {
+    display: none;
+}
+
+.block {
+    display: block;
+}
+
+#nav-item1 {
+    color: #323f4b;
+    font-family: "Serif";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#nav-item2 {
+    color: #323f4b;
+    font-family: "serif";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#nav-item3 {
+    color: #323f4b;
+    font-family: "serif";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#nav-item4 {
+    color: #323f4b;
+    font-family: "serif";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.logo {
+    height: 60px;
+    width: 70px;
+}
+
+.logo-name {
+    font-size: 30px;
+    font-weight: Bold;
+    font-style: italic;
+    font-family: Bradley Hand, cursive;
+}
+
+.backgroundImage {
+    padding: 40px;
+    height: 100vh;
+    background-image: url("https://img.freepik.com/premium-photo/top-view-aeroplane-with-clouds-sky-blue-pastel-background-travel-tourism-plane-trip-worldwide-planning-tour-banner-leisure-touring-holiday-summer-concept-3d-rendering-illustration_598821-1543.jpg?w=2000");
+    background-size: cover;
+}
+
+.title {
+    font-size: 80px;
+    color: black;
+    font-weight: bold;
+    font-family: "Caveat";
+    padding-top: 100px;
+}
+
+.description {
+    color: black;
+    font-size: 30px;
+    padding-right: 450px;
+    padding-top: 21px;
+    font-family: "Luminari, fantasy";
+    font-weight: bold;
+    text-shadow: red;
+}
+
+.pp {
+    height: 100vh;
+}
+
+.spanName {
+    color: red;
+    font-family: "Caveat";
+    font-weight: bold;
+}
+
+.button {
+    font-size: 30px;
+    border-radius: 10px;
+    margin-top: 21px;
+    font-style: italic;
+}
+
+/* STATES PAGE CSS */
+
+
+.background1 {
+    height: 125vh;
+    width: 125vw;
+    background-size: cover;
+    padding: 20px;
+    background-color: #bdeeff;
+}
+
+.pic {
+    height: 90px;
+    width: 90px;
+    text-align: center;
+}
+
+.fast {
+    font-size: 35px;
+    text-align: center;
+    color: #183b56;
+}
+
+.select-heading {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "caviet";
+    margin-left: 50px;
+}
+
+.select-option {
+    margin-left: 50px;
+    width: 500px;
+    font-weight: bold;
+    font-family: "caviet";
+    font-size: 20px;
+}
+
+.par {
+    color: #616c7c;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.inputElement {
+    border-radius: 10px;
+    width: 900px;
+    font-size: 30px;
+    height: 55px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 25px;
+    background: url("https://static.thenounproject.com/png/101791-200.png") no-repeat left;
+    background-size: 25px;
+    text-align: left;
+}
+
+.card {
+    height: 25vh;
+    width: 25vw;
+    margin: 50px;
+    border-radius: 20px;
+    background-size: cover;
+}
+
+.destination-heading {
+    margin-top: 40px;
+    font-weight: bold;
+    margin-left: 40px;
+    font-family: "caviet";
+    text-decoration: underline;
+}
+
+.state-heading {
+    font-weight: 900;
+    font-size: 35px;
+    font-family: "caviet";
+    padding-left: 5px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.state-heading-jammu {
+    font-weight: 900;
+    font-size: 30px;
+    font-family: "caviet";
+    padding-left: 5px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.state-pic-goa {
+    height: 30vh;
+    width: 30vw;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWLjbfZqtAGaqmxNRNA3CfXHD27bVjOU9yPA&usqp=CAU");
+    background-size: cover;
+}
+
+.state-pic-kn {
+    height: 30vh;
+    width: 30vw;
+    background-image: url("https://t3.ftcdn.net/jpg/01/16/06/34/360_F_116063444_xb7kD6nbAxXjCiAhWkheT7QmMhyyoA7c.jpg");
+    background-size: cover;
+}
+
+.state-pic-kr {
+    height: 30vh;
+    width: 30vw;
+    background-image: url("https://images.pexels.com/photos/962464/pexels-photo-962464.jpeg?cs=srgb&dl=pexels-godson-bright-962464.jpg&fm=jpg");
+    background-size: cover;
+}
+
+.state-pic-tn {
+    height: 30vh;
+    width: 30vw;
+    background-image: url("https://hyderabadtourpackage.in/images/places-to-visit/charminar-hyderabad-entryfee-timings-tour-package-header.jpg");
+    background-size: cover;
+}
+
+.state-pic-ap {
+    height: 30vh;
+    width: 30vw;
+    background-image: url("https://etimg.etb2bimg.com/photo/89314482.cms");
+    background-size: cover;
+}
+
+.state-pic-jk {
+    height: 30vh;
+    width: 30vw;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvMit9Q65shxtbV871PQuYoGB2dr3sa2qAs3Y0dcArqIkTHUSRyw9O_rLaDbaLjzObmKI&amp;usqp=CAU");
+    background-size: cover;
+}
+
+
+/*  EACH STATE PAGE  */
+
+
+.background2 {
+    height: 100%;
+    width: 110vw;
+    padding: 20px;
+    background-color: #bdeeff;
+}
+
+.pad {
+    padding-bottom: 250px;
+}
+
+.title-name1 {
+    font-size: 90px;
+    font-family: cursive;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 5px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+}
+
+.carousel-pic {
+    height: 400px;
+    width: 900px;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.pearl {
+    font-size: 30px;
+    font-weight: bold;
+    padding-right: 100px;
+    font-family: cursive;
+    padding-bottom: 10px;
+    text-align: right;
+    margin-bottom: 0px;
+}
+
+.famous {
+    margin-top: 10px;
+    font-size: 60px;
+    font-family: "caviet";
+    text-decoration: underline;
+}
+
+.card-box {
+    height: 200px;
+    width: 250px;
+    border-radius: 10px;
+    margin-top: 20px;
+    background-size: cover;
+}
+
+
+.places {
+    height: 250px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.list-items {
+    font-size: 20px;
+    font-family: "caviet";
+    font-weight: bold;
+    margin-top: 5px;
+    margin-left: 0px;
+    padding-left: 0px;
+    line-height: 1.6;
+}
+
+.map {
+    margin-bottom: 40px;
+    height: 150px;
+    width: 150px;
+}
+
+.mini {
+    height: 105vh;
+    width: 100vw;
+    margin-bottom: 50px;
+}
